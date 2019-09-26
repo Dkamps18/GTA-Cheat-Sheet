@@ -26,6 +26,16 @@ Level | Index
 --- | --- 
 6 (100%) | 4
 
+# Plate
+Type | Index
+--- | --- 
+San Anderas White style 1 | 0
+San Anderas Black | 1
+San Anderas Blue | 2
+San Anderas White style 2 | 3
+San Anderas Exempt | 4
+North Yankton | 5
+
 # Window tint
 Tint | Index
 --- | --- 
